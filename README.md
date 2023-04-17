@@ -1,4 +1,4 @@
- ![principal](https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)
+ ![principal](https://th.bing.com/th/id/OIP._F6fk5DIjhetbf9pT0WrjgHaD5?pid=ImgDet&w=177&h=75.94680851063829&c=7)
  
  ### Hi there 👋 Eu sou Vinicius Oliveira
 
