@@ -12,6 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=OliverSantos&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  ### Tecnologias aprendidas: 
  HTML, CSS, Javascript, Phyton
  
