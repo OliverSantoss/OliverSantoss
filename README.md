@@ -1,4 +1,4 @@
- ![principal](https://th.bing.com/th/id/OIP._F6fk5DIjhetbf9pT0WrjgHaD5?pid=ImgDet&w=177&h=75.94680851063829&c=7)
+ ![principal](https://th.bing.com/th/id/R.e1e404b48f6dfa8fcc419c6b0bf1774a?rik=o%2bMXczMCf2g%2bqg&pid=ImgRaw&r=0)
  
  ### Hi there 👋 Eu sou Vinicius Oliveira
 
