@@ -1,4 +1,4 @@
-![principal](https://th.bing.com/th/id/OIP.7vX5cEGZe5rY_N1KXbtjQQHaEA?pid=ImgDet&w=177&h=66.375&c=7)
+![principal](https://cdn.bhdw.net/im/technology-binary-number-programming-wallpaper-69478_w635.webp)
  
  ### Hi there 👋 Eu sou Vinicius Oliveira
 
