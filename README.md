@@ -2,7 +2,7 @@
 ***
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=OliverSantos&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -11,6 +11,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverSantosshow_icons=true&theme=radical)
 
  ### Tecnologias aprendidas: 
  HTML, CSS, Javascript, Phyton
