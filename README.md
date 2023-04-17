@@ -1,4 +1,4 @@
-![principal](https://images.pexels.com/photos/34600/pexels-photo.jpg?cs=srgb&dl=codificacao-codificador-codigo-34600.jpg&fm=jpg)
+![principal](https://th.bing.com/th/id/OIP.7vX5cEGZe5rY_N1KXbtjQQHaEA?pid=ImgDet&w=177&h=66.375&c=7)
  
  ### Hi there 👋 Eu sou Vinicius Oliveira
 
