@@ -9,10 +9,8 @@
   srcset="https://github-readme-stats.vercel.app/api?username=OliverSantos&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=OliverSantos&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=OliverSantos&show_icons=true" />
 </picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ### Tecnologias aprendidas: 
  HTML, CSS, Javascript, Phyton
@@ -22,3 +20,7 @@
  
  ### Ferramentas que utilizo:
  Vs code, Git e Github, 
+ 
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
