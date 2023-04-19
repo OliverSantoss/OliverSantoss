@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/106452084/232931738-628b250a-2267-4a2e-a419-ff132935da3b.png)
+![image](https://user-images.githubusercontent.com/106452084/232939385-fee6ffe6-7fe2-466c-abe2-9c181bc492ce.png)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=OliverSantoss&show_icons=true&theme=dark"
