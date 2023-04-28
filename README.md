@@ -2,7 +2,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=OliverSantoss&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=OliverSantoss&show_icons=true&theme=white"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -21,4 +21,4 @@
  ### Ferramentas que utilizo:
  Vs code, Git e Github, 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverSantoss&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverSantoss&theme=white)](https://github.com/anuraghazra/github-readme-stats)
