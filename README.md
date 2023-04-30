@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverSantoss&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
- ### Tecnologias aprendidas: 
+ ## Tecnologias aprendidas: 
  <div align="left">
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
