@@ -38,3 +38,5 @@
  
  ## Ferramentas que utilizo:
  Vs code, Git e Github,
+
+![Snake animation](https://github.com/OliverSantoss/OliverSantoss/blob/output/github-contribution-grid-snake.svg) 
